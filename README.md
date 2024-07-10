@@ -13,3 +13,5 @@ gradle run --console=plain
 * Katholiki Kritharides
 * Niranjana Saxena
 * Shreeya Gupta
+
+PSA: I had to copy the project files onto this new git repo in order to allow public access, so unfortunately you cannot view our stats on our branches and commit history. 
